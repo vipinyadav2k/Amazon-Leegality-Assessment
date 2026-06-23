@@ -53,13 +53,38 @@ npm run build
 ## 🔮 Future Improvements
 
 If given more time, the following upgrades could be made:
-URL-Based Filter Persistence
-Synchronize filter values with URL query parameters so users can bookmark, share, and revisit filtered product views.
-Sorting Options
-Add sorting functionality based on price, rating, and product name to improve product discovery and user experience.
-Enhanced Mobile Experience
-Further optimize the responsive layout and filter drawer interactions for smaller screen sizes.
-Product Search Suggestions
-Display matching product suggestions as users type in the search bar for faster navigation.
-Improved Loading States
-Enhance the user experience with more detailed skeleton loaders, smooth transitions, and loading animations.
+
+### 🔗 URL-Based Filter Persistence
+
+Store filter values in URL query parameters so users can bookmark, share, and revisit filtered product views without losing their selected filters.
+
+### 📊 Sorting Options
+
+Add sorting capabilities based on:
+
+* Price (Low → High / High → Low)
+* Rating
+* Product Name (A → Z / Z → A)
+
+This would help users discover products more efficiently.
+
+### 📱 Enhanced Mobile Experience
+
+Further improve the mobile experience by:
+
+* Optimizing the filter drawer
+* Refining touch interactions
+* Improving layouts for smaller screens
+
+### 🔍 Product Search Suggestions
+
+Display real-time product suggestions as users type in the search bar, allowing faster navigation and product discovery.
+
+### ⚡ Improved Loading States
+
+Enhance user experience with:
+
+* Richer skeleton loaders
+* Smooth loading transitions
+* Better visual feedback during API requests
+
