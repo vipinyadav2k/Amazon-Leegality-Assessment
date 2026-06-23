@@ -52,39 +52,20 @@ npm run build
 
 ## 🔮 Future Improvements
 
-If given more time, the following upgrades could be made:
+### ❤️ Wishlist Functionality
 
-### 🔗 URL-Based Filter Persistence
+Allow users to save products to a wishlist and persist them using Local Storage.
 
-Store filter values in URL query parameters so users can bookmark, share, and revisit filtered product views without losing their selected filters.
+### 🔄 Infinite Scrolling
 
-### 📊 Sorting Options
+Replace traditional pagination with infinite scrolling for a more seamless browsing experience.
 
-Add sorting capabilities based on:
+### 🖼️ Product Image Gallery
 
-* Price (Low → High / High → Low)
-* Rating
-* Product Name (A → Z / Z → A)
+Enhance the product detail page with an interactive image gallery, image zoom, and thumbnail previews.
 
-This would help users discover products more efficiently.
+### ⚡ Performance Optimizations
 
-### 📱 Enhanced Mobile Experience
+Implement lazy loading for images and additional memoization techniques to further improve rendering performance.
 
-Further improve the mobile experience by:
-
-* Optimizing the filter drawer
-* Refining touch interactions
-* Improving layouts for smaller screens
-
-### 🔍 Product Search Suggestions
-
-Display real-time product suggestions as users type in the search bar, allowing faster navigation and product discovery.
-
-### ⚡ Improved Loading States
-
-Enhance user experience with:
-
-* Richer skeleton loaders
-* Smooth loading transitions
-* Better visual feedback during API requests
 
