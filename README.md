@@ -53,7 +53,13 @@ npm run build
 ## 🔮 Future Improvements
 
 If given more time, the following upgrades could be made:
-1. **URL Query Param Syncing**: Synchronize the `FilterContext` state with URL Search Parameters. This would allow users to bookmark or share search result links directly.
-2. **Dynamic Server Pagination**: For databases with thousands of items, fetch chunks dynamically while caching filtered queries server-side.
-3. **Product Comparison Matrix**: A sliding sidebar drawer to stack products side-by-side to compare metrics like ratings, weight, dimensions, and specs.
-4. **Favorites (Wishlist) & Shopping Cart**: Extend context structures to house a persistent cart drawer.
+URL-Based Filter Persistence
+Synchronize filter values with URL query parameters so users can bookmark, share, and revisit filtered product views.
+Sorting Options
+Add sorting functionality based on price, rating, and product name to improve product discovery and user experience.
+Enhanced Mobile Experience
+Further optimize the responsive layout and filter drawer interactions for smaller screen sizes.
+Product Search Suggestions
+Display matching product suggestions as users type in the search bar for faster navigation.
+Improved Loading States
+Enhance the user experience with more detailed skeleton loaders, smooth transitions, and loading animations.
